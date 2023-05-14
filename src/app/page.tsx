@@ -1,5 +1,6 @@
 import Image from "next/image";
-import Paragraph from "@/components/ui/paragraph";
+
+import Paragraph from "@/ui/Paragraph";
 
 export default function Home() {
   return (
