@@ -1,3 +1,16 @@
+# Similarity - Text Plagiarism API Service
+
+Similarity is a powerful API service designed to assess the similarity between two pieces of text, making it ideal for plagiarism detection, content validation, and textual analysis. Built with TypeScript, Next.js, and Tailwind CSS, it leverages the OpenAI API to provide accurate similarity scoring.
+
+## Features
+
+- 🚀 Rate-Limited API – Prevents excessive usage and ensures fair access.
+- 🤖 Advanced Similarity Analysis – Uses OpenAI's models for precise text comparison.
+- 🔑 Secure Key Management – Generate, manage, and revoke API keys with ease.
+- 🔒 Google Authentication – Ensures secure access control for users.
+
+This project is built for developers and organizations looking for a reliable, scalable, and secure way to compare text similarity via API integration.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
